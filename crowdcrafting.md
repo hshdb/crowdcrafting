@@ -51,15 +51,15 @@ Die Initiatoren der Plattform CrowdCrafting sind das Citizen Cyberscience Center
 
 # Verwandte Citizen-Science-Projekte
 
-*CrowdCrafting* ist momentan der einzige Anbieter, der mit Hilfe von Applikationen auf seiner Plattform die Mitarbeit an *Crowd Sourcing* Projekten auf unkomplizierte und zeitsparende Weise ermöglicht. Dennoch gibt es sowohl in Deutschland als auch international  einige attraktive Projekte, die der Bevölkerung das Konzept *Crowd Sourcing* näher bringen. Hierbei kann nach Organisationen unterschieden werden, die *Crowd Sourcing* Projekte initiieren und vorstellen und nach konkreten Projekten, bei denen *Crowd Sourcing* betrieben wird. 
+*CrowdCrafting* ist momentan der einzige Anbieter, der mit Hilfe von Applikationen auf seiner Plattform die Mitarbeit an *Crowd Sourcing* Projekten auf unkomplizierte und zeitsparende Weise ermöglicht. Dennoch gibt es sowohl in Deutschland als auch international einige attraktive Projekte, die der Bevölkerung das Konzept *Crowd Sourcing* näher bringen. Hierbei kann nach Organisationen unterschieden werden, welche *Crowd Sourcing* Projekte initiieren und vorstellen und nach konkreten Projekten, bei denen *Crowd Sourcing* betrieben wird. 
 
 **Beispiele für Organisationen:**
 
  - *Citizen Science Germany*
- ... fördert die Popularität von Citizen Science Projeken in Deutschland. Auf der Internetseite werden aktuelle Proejekte und Aktivitäten anschaulich und informativ vorgestellt. [@_citizen_????]
+ ... fördert die Popularität von Citizen Science Projeken in Deutschland. Auf der Internetseite werden aktuelle Projekte und Aktivitäten anschaulich und informativ vorgestellt. [@_citizen_????]
  
  - *Citizen Science Alliance*
-...ist ein Zusammenschluss von Personen unterschiedlicher Profession, die gemeinsam  Citizen Science Projekte entwickeln. Die Internetpräsenz bietet Informationen über die *Citizen Science Alliance* und informiert über aktuelle Projekte. [@_citizen_????-1]
+...ist ein Zusammenschluss von Personen unterschiedlicher Profession, die gemeinsam Citizen Science Projekte entwickeln. Die Internetpräsenz bietet Informationen über die *Citizen Science Alliance* und informiert über aktuelle Projekte. [@_citizen_????-1]
     
 **Beispiele für konkrete Projeke:**
 
